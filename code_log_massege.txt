@@ -2,3 +2,4 @@ the start
 Successful extraction
 Succesful transformation
 Succesful load
+Data loaded to Database as a table

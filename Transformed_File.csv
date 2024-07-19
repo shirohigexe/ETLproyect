@@ -1,39 +1,39 @@
-nombre,industria,ingresos(usd)
-,,
-Pemex,Petróleo,"113,582"
-Petrobras,Petróleo,"112,332"
-JBS,Alimentaria,"71,254"
-América Móvil,Telecomunicaciones,"45,542"
-Raízen,Energía eléctrica,"44,313"
-Vale,Minería,"39,977"
-FEMSA,Conglomerado,"38,655"
-Ecopetrol,Petróleo,"34,042"
-CFE,Energía eléctrica,"33,664"
-Vibra,Combustibles,"33,368"
-Empresas Copec,Conglomerado,"31,158"
-Techint,Conglomerado,"29,842"
-Marfrig,Alimentaria,"26,751"
-Ultrapar,Conglomerado,"26,269"
-Bimbo,Alimentaria,"21,616"
-PDVSA,Petróleo,"18,992"
-YPF,Petróleo,"18,615"
-Cencosud,Retail,"17,660"
-Alfa,Conglomerado,"17,613"
-Codelco,Mineria,"16,616"
-Cemex,Materiales,"16,466"
-AmBev,Bebidas,"16,024"
-Petroecuador,Petróleo,"15,420"
-Enel Américas,Energía eléctrica,"15,098"
-Braskem,Petroquímica,"14,873"
-Gerdau,Metalurgia,"14,773"
-Grupo México,Conglomerado,"14,219"
-Chedraui,Retail,"13,849"
-Grupo BAL,Conglomerado,"13,318"
-Coppel,Retail,"12,338"
-Mercado Libre,Comercio electrónico,"12,144"
-SQM,Mineria y química industrial,"12,066"
-ENAP,Petróleo,"11,394"
-Falabella,Retail,"11,350"
-Arca Continental,Bebidas,"11,292"
-Grupo Salinas,Conglomerado,"11,127"
-Brasil Foods,Alimentaria,"10,502"
+nombre,industria,ingresos(usd),ingresos(eur),ingresos(cop)
+,,,,
+Pemex,Petróleo,113582.0,104495.44,456166892.58
+Petrobras,Petróleo,112332.0,103345.44,451146655.08
+JBS,Alimentaria,71254.0,65553.68000000001,286169602.26
+América Móvil,Telecomunicaciones,45542.0,41898.64,182905324.98
+Raízen,Energía eléctrica,44313.0,40767.96,177969427.47
+Vale,Minería,39977.0,36778.840000000004,160555227.63
+FEMSA,Conglomerado,38655.0,35562.6,155245824.45
+Ecopetrol,Petróleo,34042.0,31318.640000000003,136719139.98
+CFE,Energía eléctrica,33664.0,30970.88,135201020.16
+Vibra,Combustibles,33368.0,30698.56,134012227.92
+Empresas Copec,Conglomerado,31158.0,28665.36,125136448.02
+Techint,Conglomerado,29842.0,27454.64,119851141.98
+Marfrig,Alimentaria,26751.0,24610.920000000002,107437098.69
+Ultrapar,Conglomerado,26269.0,24167.48,105501295.11
+Bimbo,Alimentaria,21616.0,19886.72,86813963.04
+PDVSA,Petróleo,18992.0,17472.64,76275480.48
+YPF,Petróleo,18615.0,17125.8,74761376.85
+Cencosud,Retail,17660.0,16247.2,70925915.4
+Alfa,Conglomerado,17613.0,16203.960000000001,70737154.47
+Codelco,Mineria,16616.0,15286.720000000001,66733013.04
+Cemex,Materiales,16466.0,15148.720000000001,66130584.54
+AmBev,Bebidas,16024.0,14742.08,64355428.56
+Petroecuador,Petróleo,15420.0,14186.400000000001,61929649.800000004
+Enel Américas,Energía eléctrica,15098.0,13890.16,60636436.62
+Braskem,Petroquímica,14873.0,13683.16,59732793.87
+Gerdau,Metalurgia,14773.0,13591.16,59331174.87
+Grupo México,Conglomerado,14219.0,13081.480000000001,57106205.61
+Chedraui,Retail,13849.0,12741.08,55620215.31
+Grupo BAL,Conglomerado,13318.0,12252.560000000001,53487618.42
+Coppel,Retail,12338.0,11350.960000000001,49551752.22
+Mercado Libre,Comercio electrónico,12144.0,11172.480000000001,48772611.36
+SQM,Mineria y química industrial,12066.0,11100.720000000001,48459348.54
+ENAP,Petróleo,11394.0,10482.48,45760468.86
+Falabella,Retail,11350.0,10442.0,45583756.5
+Arca Continental,Bebidas,11292.0,10388.640000000001,45350817.480000004
+Grupo Salinas,Conglomerado,11127.0,10236.84,44688146.13
+Brasil Foods,Alimentaria,10502.0,9661.84,42178027.38
